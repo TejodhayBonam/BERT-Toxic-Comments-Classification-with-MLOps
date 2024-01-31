@@ -1,0 +1,18 @@
+## py cache files
+/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+## zip files
+*.zip
+
+### logs and experiment
+logs/
+experiments/
+
+## Virtual envs
+venv/
+env/
+
+## Credentials file
+.env
