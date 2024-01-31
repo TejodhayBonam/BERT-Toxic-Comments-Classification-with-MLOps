@@ -126,7 +126,4 @@
 - [Azure CI/CD, Container Registry](https://www.youtube.com/watch?v=BmQqBxDg2Xg)
 - [O'Reilly Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 
-## [Contact](#contact)📩
-[Gmail](karanshingde@gmail.com) | [LinkedIn](https://linkedin.com/in/karanshingde) | [Twitter](https://twitter.com/KuchBhiKaran)
-
 ## Thank you for visiting🙋‍♂️
