@@ -110,7 +110,7 @@
 
 
 ## [Run by yourself](#run-by-yourself)🏃🏽
-1. Clone the repository: `git clone https://github.com/karan842/comment-toxicity.git`
+1. Clone the repository: `git clone https://github.com/TejodhayBonam/BERT-Toxic-Comments-Classification-with-MLOps.git`
 2. Create a virtual enviornment: `python -m venv yourenv`
 3. Activate virutal enviornment: `cd path/to/venv/Scripts` then `.\Activate.ps1`
 4. Install dependencies: `pip install -r requirements.txt`
